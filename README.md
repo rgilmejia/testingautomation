@@ -1,5 +1,3 @@
-test("debería sumar dos números", () => {
-
 # Proyecto: Secuencia Fibonacci TDD
 
 Repositorio oficial: [github.com/rgilmejia/testingautomation](https://github.com/rgilmejia/testingautomation)
